@@ -22,17 +22,12 @@ public class Mars {
         } else {
             System.out.println("ERROR!!! Flight plan already set. Landing on The Plain");
         }
+        new GuessingGame();
 
 
         //Call the landingCheck function
-
-
-        //Instantiate a GuessingGame object
-        //Instantiate a MarsExpedition object
-        //Instantiate a FindingsList object
-        //System.out.println(nameOfPlayer);
+        new MarsExpedition();
     }
-
     public static void landingCheck(int minutesLeft) throws InterruptedException {
 
         for (int minute = 0; minute <= minutesLeft; minute++) {
@@ -50,4 +45,5 @@ public class Mars {
         System.out.println("Landed");
 
     }
+
 }
