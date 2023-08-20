@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="415ff312-afb7-4743-975f-f4dd06cf6fe2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MarsExpedition.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GuessingGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GuessingGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FindingsList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FindingsList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Mars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Mars.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +23,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -86,16 +88,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/MarsExpedition.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

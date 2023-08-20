@@ -24,10 +24,11 @@ public class Mars {
         }
         new GuessingGame();
 
-
-        //Call the landingCheck function
         new MarsExpedition();
+
+        new FindingsList();
     }
+    //Call the landingCheck function
     public static void landingCheck(int minutesLeft) throws InterruptedException {
 
         for (int minute = 0; minute <= minutesLeft; minute++) {
